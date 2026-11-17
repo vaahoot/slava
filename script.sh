@@ -1,1 +1,1 @@
-"$HOME/.local/share/legendary-env/bin/legendary" --version
+"$HOME/.local/share/legendary-env/bin/legendary" auth --disable-webview
