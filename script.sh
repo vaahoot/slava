@@ -1,2 +1,1 @@
-cd "$HOME/steamac-fex-setup/fex-eac"
-sh install-fex-tool.sh
+sh install-fex-tool.sh status
