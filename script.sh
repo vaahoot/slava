@@ -1,1 +1,2 @@
-git -C "$HOME/steamac-fex-setup" checkout --detach FETCH_HEAD
+cd "$HOME/steamac-fex-setup/fex-eac"
+JOBS=2 sh build-fex.sh
